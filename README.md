@@ -1,3 +1,3 @@
 # cad-data
-Web data of Canadian Universities.
+Webscraped statistics of Canadian Universities.
 Written in Node.js with axios and cheerio.
