@@ -1,0 +1,1491 @@
+{
+	"": {
+		"name": "University of Lethbridge",
+		"city": "Lethbridge",
+		"image": "https://www.universitystudy.ca//wp-content/uploads/2013/08/Lethbridge_banner_web-960x-1.jpg",
+		"description": "A comprehensive academic and research university, the University of Lethbridge (ULethbridge)  welcomes more than 8,000 undergraduate and graduate students from around the world to its campuses in Lethbridge and Calgary each year.ULethbridge offers more than 150 undergraduate and 70 graduate programs in Arts & Science, Education, Fine Arts, Health Sciences, Liberal Education, Graduate Studies and the Dhillon School of Business.Located on traditional Blackfoot Confederacy territory, the Lethbridge campus overlooks the Oldman River and is known for its signature Arthur Erickson building, spacious campus and stunning views. In 2019, ULethbridge opened Science Commons, the most advanced facility for science education and research in Canada. ULethbridge is the only university in Alberta to offer arts and science co-op work experiences for every major at both the undergraduate and graduate levels, and its business program is one of only six percent of business schools worldwide that is accredited by the Association to Advance Collegiate Schools of Business (AACSB).All students — that’s 100 per cent of undergraduate and graduate students — can take part in work-integrated learning opportunities that are recorded in ULethbridge’s MyExperience Transcript, which provides a record of students’ high-impact experiences to share with future employers.A city of just over 100,000 residents, Lethbridge is located in southern Alberta and is a short distance from the Rocky Mountains, Calgary and the U.S. border. It is one of Canada’s sunniest cities and the warm westerly Chinook winds give Lethbridge some of the most moderate winters in Western Canada.",
+		"enrollmentFtUgrad": "6,900",
+		"enrollmentFtGrad": "580",
+		"enrollmentPtUgrad": "630",
+		"enrollmentPtGrad": "160",
+		"tuitionCadUgrad": "$6,093",
+		"tuitionCadGrad": "$5,837 - $6,270",
+		"tuitionIntlUgrad": "$20,290",
+		"tuitionIntlGrad": "$13,532",
+		"programs": [
+			{
+				"name": "Master of Arts in Urban and Regional Studies",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Anthropology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Computer Science",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in History",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Indigenous Studies",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Kinesiology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Philosophy",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Political Science",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Physics",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Canadian Studies",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Biological Sciences",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Chemistry",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Economics",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in English",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Geography",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Sociology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Psychology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in French",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in German",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Education (General)",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Kinesiology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Agricultural Biotechnology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in French/German",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Mathematics",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Psychology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Religious Studies",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Geography",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Diploma Program in Education",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in French",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Kinesiology",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Political Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Mathematics",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Sociology",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Religious Studies",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Philosophy",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Indigenous Studies",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in History",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in English",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Economics",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Anthropology",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Physics",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Psychology",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Canadian Studies",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Biochemistry",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Biological Sciences",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Psychology",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Geography",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Urban and Regional Studies",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Sciences (General major)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts and Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Humanities (General major)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Agricultural Studies",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Agricultural Biotechnology",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Geography",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Environmental Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Music",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Social Studies Education/Bachelor of Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education (After Degree)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Science Education/Bachelor of Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in International Management",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Fine Arts - New Media",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Fine Arts - Multidisciplinary",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Fine Arts - Dramatic Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Fine Arts - Art",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Health Sciences in Addictions Counselling",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/healthsciences",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Nursing",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/healthsciences",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in General Management",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in Indigenous Governance and Business Management",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in Economics",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in Human Resource Management and Labour Relations",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in Finance",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in Accounting",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in Marketing",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Music in Music",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Dramatic Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Computer Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Social Sciences (General major)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Chemistry",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Certificate in Human Resource Management and Labour Relations",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Certificate in Finance",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Certificate in Marketing",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Agricultural Studies",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in French/Spanish",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Kinesiology",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Neuroscience",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Certificate in General Management",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Modern Languages Education/Bachelor of Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in English Language Arts Education/Bachelor of Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Mathematics Education/Bachelor of Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Physical Education/Bachelor of Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Career and Technology Studies: Business Focus/Bachelor of Management",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Drama Education/Bachelor of Fine Arts - Dramatic Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Dentistry (pre-professional)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Journalism (pre-professional)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Law (pre-professional)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Medicine (pre-professional)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Social Work (pre-professional)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Veterinary Medicine (pre-professional)",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Archaeology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Dramatic Arts",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in French/Spanish",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Music",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Agricultural Studies",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Biochemistry",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Environmental Science",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Exercise Science",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Health Sciences",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Neuroscience",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science (Management) in Accounting",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "PhD in Biomolecular Science",
+				"level": "Doctorate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Education (Counselling Psychology)",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Art",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Computer Science and Geographical Information Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Indigenous Education/Bachelor of Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Art Education/Bachelor of Fine Arts - Art",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Art Education/Bachelor of Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Music Education/Bachelor of Music",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Drama Education/Bachelor of Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Archaeology",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Arts in Women and Gender Studies",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Archaeology and Geography",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Education (Educational Leadership)",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "PhD in Neuroscience",
+				"level": "Doctorate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "PhD in Biosystems and Biodiversity",
+				"level": "Doctorate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "PhD in Earth, Space and Physical Science",
+				"level": "Doctorate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "PhD in Evolution and Behaviour",
+				"level": "Doctorate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "PhD in Theoretical and Computational Science",
+				"level": "Doctorate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in Computer Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Agricultural Studies",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Individualized Multidisciplinary",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Nursing",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Individualized Multidisciplinary",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Music Education/Bachelor of Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Management in Political Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Art",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in New Media",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Addictions Counselling",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Computer Science and Geographical Information Science",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Certificate in Indigenous Governance and Business Management",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Counselling in Applied Psychology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Music in Digital Audio Arts",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Certificate in International Management",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Women and Gender Studies",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Fine Arts in Art",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Music",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Archaeology",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Health Sciences in Public Health",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/healthsciences",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Remote Sensing",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Nursing After Degree",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/healthsciences",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Education",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Physical Education/Bachelor of Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Fine Arts - Indigenous Art",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/finearts",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Science in Applied Statistics",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Pre-Professional Transfer Program in Engineering",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Education in Career and Technology Studies: New Media Focus/Bachelor of Fine Arts - New Media",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/education",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Health Sciences in Aboriginal Health",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/healthsciences",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Bachelor of Therapeutic Recreation",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/healthsciences",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Fine Arts in New Media",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Fine Arts in Theatre and Dramatic Arts",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Nursing",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science (Management) in Finance",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science (Management) in Human Resource Management and Labour Relations",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science (Management) in Information Systems",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science (Management) in International Management",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science (Management) in Marketing",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science (Management) in Policy and Strategy",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Cultural, Social, and Political Thought",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "PhD in Cultural, Social, and Political Thought",
+				"level": "Doctorate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "PhD in Education",
+				"level": "Doctorate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "PhD in Population Studies in Health",
+				"level": "Doctorate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Arts in Cultural Resource Management",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Graduate Certificate in Health Services Management (G.C.H.S.M.)",
+				"level": "Graduate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Health Services Management",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Master of Science in Remote Sensing",
+				"level": "Master",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Indigenous Student Success Cohort",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "Yes",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Graduate Diploma in Addiction and Mental Health Psychotherapy (G.D.A.M.H.P.)",
+				"level": "Graduate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Graduate Certificate in Advanced Clinical Study of Addiction (G.C.A.C.S.A.)",
+				"level": "Graduate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Finance Diploma",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Post-Bachelor Certificate in Accounting Fundamentals",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Post-Bachelor Certificate in Advanced Accounting",
+				"level": "Undergraduate",
+				"website": "http://www.uleth.ca/dhillon",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Certificate in Arts and Science",
+				"level": "Bachelor",
+				"website": "http://www.uleth.ca/artsci",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Graduate Certificate in Bioinformatics (G.C.B.)",
+				"level": "Graduate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Graduate Certificate in Epidemiology and Biostatistics (G.C.E.B.)",
+				"level": "Graduate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			},
+			{
+				"name": "Graduate Certificate in Public Health Program and Policy Planning and Evaluation (G.C.P.H.P.E.)",
+				"level": "Graduate",
+				"website": "http://www.uleth.ca/graduatestudies",
+				"language": "English",
+				"coop": "No",
+				"distanceEdu": "No"
+			}
+		]
+	},
+	"British Columbia": []
+}
